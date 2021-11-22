@@ -1,0 +1,34 @@
+Agregar indicador de actividad -> agrandar la cant maxima de caracteres mostrada en el seclec
+Registro de metas de un indicador, 
+	el agregar no esta validado
+	Boton editar
+	
+
+Agregar vista de la UGE para que vea "RegistroEjecucionMetas.blade" igual que el gerente, pero no puede editar
+Agregar que el gerente puede añadir personas naturales y juridicas a una poblacion beneiciaria
+al reporte en excel de listar proyectos agregar fecha finalizacion
+
+En el reporte de excel de RegistroEjecucionMetas cambiar descripcion por unidadMedida
+
+Investigar consulta manual a la sunat 
+https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc/FrameCriterioBusquedaWeb.jsp
+
+Cambio del estado del proyecto no funciona
+
+Añadir vista al gerente para que pueda SOLO VER el proyecto (no editar)
+
+De la vista de listar proyectos de UGE, 
+	quitar PEI y Moneda
+	Al lado del EDITAR, el boton de seguimiento (este llevaria a la vista de RegistroEjecucionMetas para la UGE)
+	
+	
+	Personas nat y jur eliminar campo de texto actividad principal 
+		(y en el reporte de excel que se listen por comas)
+		
+	Añadir reporte estadistico para saber # de personas )nat y jur ) que tienen cierta actividad
+	
+PLAZOS CON LA SEÑORA MELI
+
+	Vistas separadas por actores funcionando -> Viernes a las 3pm
+	Arreglo de repotes -> Sabado 9pm
+	Reporte Estadístico personas -> Domingo mediodia

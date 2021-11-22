@@ -1,0 +1,39 @@
+`CAMBIOS 5 PROYECTO`
+Lista actividades:
+	✔ En vista RegistroEjecucionMeta: @done(21-08-15 17:33)
+		✔ añadir al lado de meta prog, la columna "Meta Ejec" @done(21-08-15 17:32)
+		✔ CAMBIAR nombre de columna Ejecucion por "% Ejec" @done(21-08-15 17:33)
+		✔ Reducir espacio sobrante y quitarles tamaño grande @done(21-08-15 17:33)
+		✔ Quitar nombres completos de meses por abreviaturas @done(21-08-15 17:33)
+		✔ Arreglar bug de mes desaparecido por fila primera fijada @done(21-08-15 17:33)
+
+	✔ Reporte de listar proyectos: @done(21-08-16 12:47)
+		✔ Añadir datos contacto financiera @done(21-08-16 12:47)
+		✔ Link para descargar el reporte completo de cada proyecto @done(21-08-16 13:08)
+
+	✔ Reporte del Marco Logico: @done(21-08-16 13:08)
+		✔ Quitar modelo del marco logico @done(21-08-16 13:08)
+		✔ El reporte debe bajar TODA la informacion de ese proyecto a un EXCEL @done(21-08-16 13:08)
+
+	✔ Editar Proyecto: @done(21-08-16 13:08)
+		✔ Achicar fecha de inicio y de finalizacion, añadir "Duración en meses" (solo lectura), que se calcula de manera desagregada 3años = (36 meses) @done(21-08-16 13:08)
+
+	✔ BUG DE CARGADO FILTRO PEI y OBJ EST: @done(21-08-16 13:08)
+
+	✔ Subir modulo proyectos al hosting @done(22-08-21 00:18)
+		✔ Efectuar cambios de tablas en mysql host☐ @done(22-08-21 00:18)
+
+
+	✔ Investigar el tiempo de conexion maximo de una sesion en el hostingg @done(21-08-19 14:05) 
+	lo actualice a 7200 segundos (algo de 2 h)
+
+	✔ Duracion en meses BUG al clickear aparece fecha, ademas siempre debe estar en readonly @done(22-08-21 23:08)
+	✔ mensaje de confirmacion al elminar un indicador de actividad @done(22-08-21 23:11)
+	✔ Vista editar empleado, quitar los float @done(22-08-21 23:24)
+	✔ Cantidad de caracteres mostrados en los select de agregar indicador de res @done(22-08-21 23:31)
+	✔ Boton guardar % objetivos no debe estar disponible para el gerente @done(22-08-21 23:52)
+
+	✔ Al crear un proyecto validar si otro activo tiene el mismo cod presupuestal @done(23-08-21 00:01)
+	✔ ELIMINAR PLAN ESTRATEGICO NO FUNCION @done(23-08-21 00:12)
+
+	☐ REVISAR IDEA DIEGO HACER TABLAS EN HTML EN VERTICAL Y LUEGO TRANSPONERLAS CON EL PLUGIN SPEEDSHET

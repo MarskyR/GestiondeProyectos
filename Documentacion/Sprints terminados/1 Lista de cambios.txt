@@ -1,0 +1,92 @@
+El presupuesto total se calcula = suma de las cptdas y el importe fnanciamiento
+
+Lugares ejecucion del proyecto -> 
+	
+	Quitar sexo y edad de PoblacionBeneficiaria (solo queda el enunciado general)
+	En la lista: 
+		cambiar descripcion por "Lugar", 
+		ordenar por apellidos y nombres. 
+		Añadir edad actual, que se calcule la edad al momento de ingresar Fecha Nac,
+		ingresar Sexo
+		Direccion
+		nroTelefono
+		actividad principal
+		
+				
+		En lista de personas juridicas:
+			ATRIBUTOS:
+				RUC
+				RAZON SOCIAL
+				Direccion
+				NUMERO DE SOCIOS HOMBRES
+				NUMERO DE SOCIOS MUJERES
+				ACTIVIDAD PRINCIPAL
+				
+				
+
+Poner el obj general arriba de la matriz de Obj
+Objetivos especificos->
+	1 Objetivo general -> varios indicadores
+	1 indicador -> varios Medios de veficiacion
+	1 medio de verificacion = 1 texto + 1 archivo
+	
+Quitar el boton eliminar actividad,y eliminar resultado esperado
+Añadir codigos 1.1 1.1.1
+
+las actividadesd deben tener su codigo 1.1 y su nombre 
+
+Los indicadores deben tener
+	nombre 
+	meta 
+	unidad de medida 
+	
+
+En vista de grafico de metas añadir de titulo nombre de la actividad y nombre del indicador 
+	cambiar Cant.Meta por "meta programada" y "meta ejecutada"
+Añadir a tabla meta_ejecutada
+	desviacion : cantMeta - cantEjecutada
+	% ejecucion = cant ejecutada / cant programada 
+	Cada registro en meta_ejecutada puede tener varios archivos (de verificacion)
+	Añadirle un semaforo a cada fila de meta programada-ejecutada 
+		SEMAFORO COLORES:
+			ROJO 0<=X<50 
+			AMARILLO 50<=X<80
+			VERDE 80<=X<=100
+	
+
+indicador_resultado.meta = sumatoria de metas programadas 
+CAMBIAR EL NOMBRE A ESTA TABLA A indicador_actividad 
+	
+	
+	
+	
+EL resultado esperado tiene aparte de actividades, indicadores de resultado 
+	1 indicador -> varios Medios de veficiacion
+	1 medio de verificacion = 1 texto + 1 archivo
+	
+
+
+
+
+
+
+
+
+CAMBIOS DE LA SEGUNDA REUNION
+/* 
+            cambiar sexo M H
+            Persona juridica
+                añadir tipologia (una p juridica puede ser una lista de cosas) COMBO BOX DE LA SUNAT
+
+            
+            Una persona solo puede estar en una de las pob beneficiarias de un proyecto
+            añadir items a todos los reportes    
+
+            en los archivos del proyecto registrar la fecha en la que se sube el archivo
+
+            suma de metas corregir
+			
+        
+            sistema de control de versiones de archivos ¿? en duda todavia
+
+        */

@@ -1,0 +1,106 @@
+-- 4 uges en total
+-- cambiar en todos lados codigo presupuestal por origen presupuestal (cuando es del proyecto)
+-- añadir a proyecto:
+	fecha de finalizacion (y que muestre duracion en meses)
+	
+	
+-- Lugares eje proyecto -> añadir en form para añadir nuevos lugares de ejec con la misma plantilla
+-- NO HICE EL Editar poblacion beneficiaria
+
+- Añadir numeracion a las poblaciones beneficiarias (desplegable)
+
+POBLACION BENEFICIARIA: 
+	- Añadir a persona natural el (lugar de ejecucion) que seleccione de las ingresadas en el proyecto
+	- Arreglar formulario agregarpersona natural (está feo)
+
+	- Añadir a persona juridica un atributo representante (nombre)
+	- Socios y socias es es un dato opcional, no obligatorio
+	
+
+
+AGREGAR RESULTADO ESPERADO NO FUNCIONA (no se coloca el 0 por defecto)
+OBJ Especificos-> aumentar limite de caracteres a 600
+A TODO AUMENTARLE 200 CARACTERES
+
+En medio verificacion indicador resultado-> el texto se ingresa antes, el archivo despues 
+
+CAMBIAR "XXX" al que apunta por lo general
+
+
+Indicador de actividad-> quitar uno de los sobrantes (descripcion )
+
+Uniformizar reporte de excel con la vista Registrar Metas (gerente )
+
+
+
+
+Clase Numeros: 
+quitarle mayusculas a todos los Con
+
+Requerimiento de ByS
+	Cuenta bancaria proveedor es opcional, colocar mensaje ""
+
+En todos los listar:
+	CAMBIAR EMPLEADO POR COLABORADOR/A
+	CAMBIAR Evaluador/a por Gerente/Director(a)
+	F.Revision por Fecha Aprobación
+	
+	
+Listar rendiciones  añadir fecha de aprobacion al listado 
+
+
+Listar reposiciones quitar banco,cambiar F.Gerente por F.Aprobación ,Añadir F.Desembolso, Añadir nombre del gerente
+	
+	
+Listar RBS Añadir F.Aprobacion, F.Atención , Nombre del gerente/director 
+
+Administrador debe poder rechazar requerimientos 
+
+
+Listar solicitudes : cambiar orden y nombres F.Emision, F.Aprobación, F.Desembolso (este entre estado y opciones )
+	
+	
+
+Empleados: cambiar nombres: quitar mayusculas feas  (TAMBIEN A PROYECTOS)
+EMPLEADOS: en los seleccionar empleado, mostrar primero apellidos y luego nombres 
+
+AL CREAR EMPLEADO VALIDAR INGRESAR CODIGO CEDEPAS
+
+
+Datos de los empleados pa pedirle a mi ma 
+	- Sexo 
+	- Fecha nacimiento
+	- Nombre exacto del cargo 
+	- Dirección 
+	- Nro telefono 
+	
+Exportacion de listado de proyectos a EXCEL 
+	exportar todos los datos del proyecto 
+	
+	
+BUG cantidad contadores en lsitado proyectos 
+
+
+cuando asignamos proyectos a un contador, el mensaje emergente que sea menos invasivo tipo fb
+
+
+
+
+CINTIA SANCHEZ
+	CUENTA ADMINISTRADORA
+		usuario:E0092
+		clave:40242073
+		 
+	CUENTA CONTADORA:(nueva )
+		usuario:E0092-C
+		clave:40242073
+	
+	
+
+
+
+
+
+
+
+

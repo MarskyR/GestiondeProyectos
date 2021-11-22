@@ -1,0 +1,39 @@
+A pedido del usuario:
+    ✔ Añadir nuevos obj del milenio @done(10-09-21 01:07)
+    ✔ En los obj estrategicos poner el enunciado tambien, no solo el titulo @done(10-09-21 01:07)
+    ✔ CRUD  obj milenio @done(10-09-21 01:07)
+    ✔ Arreglar CRUD de obj estrategicos (edicion del pei) @done(10-09-21 01:07)
+    
+Optimizacion del sistema respecto al usuario:
+   
+    ✔ Desactivar cambiador de fecha inicio y fecha finalizacion para el gerente (PROYECTO) @done(19-09-21 22:18)
+   
+    
+    ✔ En las vistas de editar documento, al cambiar el proyecto el codPresupuestal se tiñe de rojo pero se pierde el estilo sombreado @done(17-09-21 15:00)
+    ✔ Corregir bug de archivos con tilde (cambiando codificacion a utf8mb4) @done(28-09-21 16:50)
+    ✔ En REN y REP, aparecian numeros de 3 decimales, corregi a 2. @done(30-09-21 15:58)
+    ✔ Corregir bug de la numeracion que aparece al crear requerimiento @done(30-09-21 15:58)
+
+
+Sistema anterior:
+	
+Al hacer una operacion en Los desplegables, se recarga la pagina entera. Cambiar por AJAX:
+    ✔ objetivos estrategicos (que se llamen cada vez que se cambia el PEI) @done(02-09-21 20:17)
+    ✔ pob benefiiaria @done(02-09-21 12:22)
+    ✔ objetivos esp e indicadores @done(01-09-21 15:22)
+    ✔ res esp indicadores @done(01-09-21 15:22)
+    ✔ res esp actividades @done(01-09-21 15:22)
+    ✔ Lugares de ejecucion @done(10-09-21 12:19)
+
+Refactors ordenar código:
+    ✔ Hacer funcion para que el código de girado del + de los desplegables esté en ValidatorJS y solo se la llame @done(02-09-21 15:28)
+    ✔ Edit proyecto cambiar validaciones a validatorJS @done(30-09-21 15:57)
+
+    
+Funcionalidades faltantes:
+    ✔ Reporte de personas naturales y juridicas, añadir estadisticas totales @done(28-09-21 20:01)
+    ✔ Fijar fila sup RES ESP ACTIVIDADES @done(02-09-21 13:36)
+    ✔ Fijar fila sup RES ESP INDICADORES @done(02-09-21 13:36)
+    ✔ Eliminar la aparición del objetivo central de la lista de obj estrateg del proyecto @done(10-09-21 12:19)
+    ✔ Cambiar PEI por datos del word @done(10-09-21 12:19)
+    ✔ Bug de fijar 2 filas en Registro Ejecucion Metas @done(02-09-21 13:36)

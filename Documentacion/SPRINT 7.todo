@@ -1,0 +1,8 @@
+
+Actividades:
+☐ Modales de confirmar suben la pantalla para arriba y es molesto, corregir
+☐ Código de los PDF debe mejorarse
+☐ En los PDFs el nombre de AnaCeciliaAnguloAlva está como HTML, debe ser obtenido de la base de datos (por si cambia el director en el futuro)
+☐ Añadir loader de carga al abrir cualquier formulario (para que cargue JS)
+☐ La Paginación debe obtenerse de la BD y ser configurable
+
