@@ -1,6 +1,6 @@
 @extends('Layout.Plantilla')
 @section('titulo')
-    Flujograma
+    Flujograma de Procesos Administrativos
 @endsection
 
 @section('contenido')
