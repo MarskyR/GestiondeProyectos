@@ -19,7 +19,7 @@
 
     <div class="well">
         <H3 style="text-align: center;">
-            Actualizar Plan estratégico
+            Actualizar Plan Estratégico
         </H3>
     </div>
     <br>
