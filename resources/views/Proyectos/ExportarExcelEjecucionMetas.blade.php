@@ -13,7 +13,7 @@ header("Pragma: no-cache");
         <tr>
             <th colspan="7" style="font-size: large" >Proyecto:</th>
             <th colspan="7" style="font-size: large">Gerente:</th>    
-            <th colspan="7" style="font-size: large">Fecha de inicio:</th>     
+            <th colspan="7" style="font-size: large">Fecha de Inicio:</th>     
         </tr>
     </thead>
     <tbody>
@@ -40,9 +40,9 @@ header("Pragma: no-cache");
 
         <tr>
             <th rowspan="2" class="text-center">Enunciado</th>     
-            <th rowspan="2">Meta total Programada</th>
+            <th rowspan="2">Meta Total Programada</th>
             <th rowspan="2">Saldo</th>
-            <th rowspan="2">Ejecucion</th>
+            <th rowspan="2">Ejecución</th>
 
             @foreach ($proyecto->getMesesDeEjecucion() as $mes)
                 <th colspan="3" class="text-center">{{$mes['nombreMes']." ".$mes['año']}}</th>                                 
