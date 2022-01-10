@@ -20,7 +20,7 @@
   <table>
     <thead>
         <tr>
-          <th style="font-size: small;text-align:left;">NATURALES:</th>  
+          <th style="font-size: small;text-align:left;">Naturales:</th>  
         </tr>
     </thead>
   </table>
