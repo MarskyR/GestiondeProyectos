@@ -37,7 +37,7 @@ class="form-horizontal form-groups-bordered" method="post" enctype="multipart/fo
             <div class="row">
 
                 <div class="col">
-                    <label class="" style="">Nombre del Proyecto (corto):</label>
+                    <label class="" style="">Nombre de Proyecto (corto):</label>
                     <div class="">
                         <input type="text" class="form-control" id="nombre" name="nombre" 
                             value="" placeholder="Nombre..." >
